@@ -1,11 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36202.13 d17.14
+VisualStudioVersion = 17.14.36202.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task0", "Task0", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.PikalovYV.Sprint0.Task0.V0", "Tyuiu.PikalovYV.Sprint0.Task0.V0\Tyuiu.PikalovYV.Sprint0.Task0.V0.csproj", "{9CE17BFB-31C0-42BE-B014-C88147D73252}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task1", "Task1", "{30A52886-E791-4380-9944-C293CFEA57F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.PikalovYV.Sprint0.Task1.V0", "..\Tyuiu.PikalovYV.Sprint0.Task1.V0\Tyuiu.PikalovYV.Sprint0.Task1.V0.csproj", "{0272DA5F-2595-4A3E-9634-3A07375F41D2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,12 +21,17 @@ Global
 		{9CE17BFB-31C0-42BE-B014-C88147D73252}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9CE17BFB-31C0-42BE-B014-C88147D73252}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9CE17BFB-31C0-42BE-B014-C88147D73252}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0272DA5F-2595-4A3E-9634-3A07375F41D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0272DA5F-2595-4A3E-9634-3A07375F41D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0272DA5F-2595-4A3E-9634-3A07375F41D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0272DA5F-2595-4A3E-9634-3A07375F41D2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{9CE17BFB-31C0-42BE-B014-C88147D73252} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{0272DA5F-2595-4A3E-9634-3A07375F41D2} = {30A52886-E791-4380-9944-C293CFEA57F6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6C1C788C-43EB-4266-B6D8-EB9A30D9621B}
